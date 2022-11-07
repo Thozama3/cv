@@ -7,11 +7,65 @@ body {
   background: #fff;
 }
 
+
+/*====================================================
+                      SKILLS
+======================================================*/
+
+#skills {
+  background-image: url("../img/bg-stats.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.skill-cover {
+  background-color: rgba(241, 233, 233, 0.68); 
+}
+
+.skill-cover h3{
+font-family: "hind", sans-serif;
+font-size: 35px;
+margin-bottom: 40px;
+}
+
+.skill-item {
+  padding: 20px 0;
+  margin-bottom: 30px;
+  background: rgba(144, 144, 144, 0.78);
+}
+
+.skill-item i {
+  color: #232726;
+}
+
+.skill-item h2 {
+  color: #fff;
+  font-size: "hind", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  margin-top: 15px;
+  margin-bottom: 1px;
+}
+
+.skill-item p {
+  color: #fff;
+  font-family: "hind", sans-serif;
+  /*text-transform: uppercase;*/
+  font-weight: 300;
+  margin-top: 0;
+}
+
+
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
   text-decoration: none;
+  margin: 30px;
+
+  
 }
 
 a:hover {
@@ -1045,7 +1099,7 @@ main {
 
 .media-feature .icon {
   font-size: 60px;
-  color: #F73859;
+  color: #111010;
 }
 
 .media-feature h3 {
@@ -1165,7 +1219,7 @@ main {
 }
 
 .site-footer a {
-  color: #F73859;
+  color:#000;
   border-bottom: 1px solid transparent;
 }
 
