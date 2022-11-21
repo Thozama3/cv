@@ -429,12 +429,6 @@ main {
   position: relative;
 }
 
-.home-button {
-  top: 20px;
-  color: #F73859;
-  font-size: 20px;
-  position: absolute;
-}
 
 @media (min-width: 576px) {
   .home-button {
