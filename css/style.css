@@ -21,7 +21,7 @@ body {
 }
 
 .skill-cover {
-  background-color: rgba(241, 233, 233, 0.68);
+  background-color: rgba(132, 131, 131, 0.68);
 
 }
 
@@ -36,7 +36,7 @@ body {
   padding: 20px 0;
   margin: 60px;
   /* margin-bottom: 30px; */
-  background: rgba(144, 144, 144, 0.78);
+  background: rgba(116, 101, 101, 0.78);
 }
 
 .skill-item i {
@@ -44,7 +44,7 @@ body {
 }
 
 .skill-item h2 {
-  color: #fff;
+  color: rgb(160, 184, 159);
   font-size: "hind", sans-serif;
   font-size: 35px;
   font-weight: 700;
